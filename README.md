@@ -23,7 +23,7 @@ Internet connection for API calls
 
 Steps to Run Locally
 
-Clone this repository:  git clone https://github.com/yourusername/font2frame-image-generator.git
+Clone this repository:  git clone https://github.com/meakashu/Font2Frame-Image-Generator.git
 
 git clone https://github.com/yourusername/font2frame-image-generator.git
 
